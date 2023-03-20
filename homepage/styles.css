@@ -1,0 +1,78 @@
+.bg {
+    background-image: url("download.jpeg");
+
+    height: 100vh;
+
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.bg2 {
+    background-image: url("https://www.pngitem.com/pimgs/m/245-2458651_climate-change-png-global-warming-earth-png-transparent.png");
+
+    height: 125vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    /* background-size: cover; */
+    background-color: #F7F7F7;
+}
+.container {
+    width: 90%;
+    text-align: center;
+    margin: auto;
+    color: rgba(255,255,255,1);
+    background-color: black;
+    opacity: 0.75;
+    font-family: Fantasy;
+
+}
+.contain {
+    width: 90%;
+    text-align: center;
+    margin: auto;
+    color: black;
+    font-family: Fantasy;
+    font-size: 2em;
+
+}
+
+#home {
+    width: 80%;
+    text-align: center;
+    margin: auto;
+    color: white;
+    text-shadow: 2px 2px 4px #000000
+}
+.bg3 {
+background-image: url("Global-Warming-PNG.png");
+height: 130vh;
+background-position: center;
+background-repeat: no-repeat;
+/* background-size: cover; */
+}
+
+.problem {
+    width: 90%;
+    text-align: center;
+    margin: auto;
+    color: rgba(0,0,0,1);
+    background-color: white;
+    opacity: 0.75;
+    font-family: Fantasy;
+}
+.bg4 {
+    background-image: url("download2.jpeg");
+    height: 140vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover
+}
+.protect{
+    width: 90%;
+    text-align: center;
+    margin: auto;
+    color: rgba(0,0,0,1);
+    background-color: white;
+    opacity: 0.75;
+    font-family: Fantasy;
+}
